@@ -1,0 +1,988 @@
+{
+  "response": [
+    {
+      "cases": {
+        "1M_pop": "58",
+        "active": 73,
+        "critical": 3,
+        "new": "+5",
+        "recovered": 78315,
+        "total": 83022
+      },
+      "continent": "Asia",
+      "country": "China",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "3",
+        "new": null,
+        "total": 4634
+      },
+      "population": 1439323776,
+      "tests": {
+        "1M_pop": null,
+        "total": null
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "3862",
+        "active": 39893,
+        "critical": 408,
+        "new": "+318",
+        "recovered": 160092,
+        "total": 233515
+      },
+      "continent": "Europe",
+      "country": "Italy",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "555",
+        "new": "+55",
+        "total": 33530
+      },
+      "population": 60468537,
+      "tests": {
+        "1M_pop": "65527",
+        "total": 3962292
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "6139",
+        "active": 0,
+        "critical": 617,
+        "new": "+294",
+        "recovered": 0,
+        "total": 287012
+      },
+      "continent": "Europe",
+      "country": "Spain",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "580",
+        "new": null,
+        "total": 27127
+      },
+      "population": 46753394,
+      "tests": {
+        "1M_pop": "86921",
+        "total": 4063843
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "5665",
+        "active": 1146293,
+        "critical": 16939,
+        "new": "+14945",
+        "recovered": 620129,
+        "total": 1874268
+      },
+      "continent": "North-America",
+      "country": "USA",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "326",
+        "new": "+921",
+        "total": 107846
+      },
+      "population": 330848770,
+      "tests": {
+        "1M_pop": "55745",
+        "total": 18443243
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2197",
+        "active": 9015,
+        "critical": 689,
+        "new": "+299",
+        "recovered": 166400,
+        "total": 184064
+      },
+      "continent": "Europe",
+      "country": "Germany",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "103",
+        "new": "+31",
+        "total": 8649
+      },
+      "population": 83763076,
+      "tests": {
+        "1M_pop": "47192",
+        "total": 3952971
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "1878",
+        "active": 26543,
+        "critical": 2565,
+        "new": "+3117",
+        "recovered": 123077,
+        "total": 157562
+      },
+      "continent": "Asia",
+      "country": "Iran",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "95",
+        "new": "+64",
+        "total": 7942
+      },
+      "population": 83903764,
+      "tests": {
+        "1M_pop": "11632",
+        "total": 975936
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2899",
+        "active": 91468,
+        "critical": 1253,
+        "new": null,
+        "recovered": 68812,
+        "total": 189220
+      },
+      "continent": "Europe",
+      "country": "France",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "443",
+        "new": "+107",
+        "total": 28940
+      },
+      "population": 65262335,
+      "tests": {
+        "1M_pop": "21216",
+        "total": 1384633
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "225",
+        "active": 823,
+        "critical": 15,
+        "new": "+38",
+        "recovered": 10446,
+        "total": 11541
+      },
+      "continent": "Asia",
+      "country": "S-Korea",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "5",
+        "new": "+1",
+        "total": 272
+      },
+      "population": 51265802,
+      "tests": {
+        "1M_pop": "18333",
+        "total": 939851
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "3569",
+        "active": 454,
+        "critical": 29,
+        "new": "+3",
+        "recovered": 28500,
+        "total": 30874
+      },
+      "continent": "Europe",
+      "country": "Switzerland",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "222",
+        "new": null,
+        "total": 1920
+      },
+      "population": 8649556,
+      "tests": {
+        "1M_pop": "46337",
+        "total": 400793
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "4097",
+        "active": 0,
+        "critical": 1559,
+        "new": "+1653",
+        "recovered": 0,
+        "total": 277985
+      },
+      "continent": "Europe",
+      "country": "UK",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "580",
+        "new": "+324",
+        "total": 39369
+      },
+      "population": 67857854,
+      "tests": {
+        "1M_pop": "68012",
+        "total": 4615146
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2723",
+        "active": 0,
+        "critical": 154,
+        "new": "+102",
+        "recovered": 0,
+        "total": 46647
+      },
+      "continent": "Europe",
+      "country": "Netherlands",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "348",
+        "new": "+5",
+        "total": 5967
+      },
+      "population": 17131938,
+      "tests": {
+        "1M_pop": "21004",
+        "total": 359833
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "1862",
+        "active": 461,
+        "critical": 26,
+        "new": "+26",
+        "recovered": 15629,
+        "total": 16759
+      },
+      "continent": "Europe",
+      "country": "Austria",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "74",
+        "new": "+1",
+        "total": 669
+      },
+      "population": 9002328,
+      "tests": {
+        "1M_pop": "50696",
+        "total": 456378
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "5059",
+        "active": 33176,
+        "critical": 166,
+        "new": "+98",
+        "recovered": 15934,
+        "total": 58615
+      },
+      "continent": "Europe",
+      "country": "Belgium",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "820",
+        "new": "+19",
+        "total": 9505
+      },
+      "population": 11585664,
+      "tests": {
+        "1M_pop": "76335",
+        "total": 884386
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "1560",
+        "active": 488,
+        "critical": 9,
+        "new": "+6",
+        "recovered": 7727,
+        "total": 8452
+      },
+      "continent": "Europe",
+      "country": "Norway",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "44",
+        "new": "+1",
+        "total": 237
+      },
+      "population": 5417837,
+      "tests": {
+        "1M_pop": "46323",
+        "total": 250968
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "3823",
+        "active": 0,
+        "critical": 283,
+        "new": "+775",
+        "recovered": 0,
+        "total": 38589
+      },
+      "continent": "Europe",
+      "country": "Sweden",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "443",
+        "new": "+65",
+        "total": 4468
+      },
+      "population": 10094260,
+      "tests": {
+        "1M_pop": "27293",
+        "total": 275500
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2450",
+        "active": 34724,
+        "critical": 1648,
+        "new": "+685",
+        "recovered": 50271,
+        "total": 92390
+      },
+      "continent": "North-America",
+      "country": "Canada",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "196",
+        "new": "+69",
+        "total": 7395
+      },
+      "population": 37715413,
+      "tests": {
+        "1M_pop": "44966",
+        "total": 1695918
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2026",
+        "active": 665,
+        "critical": 21,
+        "new": "+35",
+        "recovered": 10489,
+        "total": 11734
+      },
+      "continent": "Europe",
+      "country": "Denmark",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "100",
+        "new": "+4",
+        "total": 580
+      },
+      "population": 5790610,
+      "tests": {
+        "1M_pop": "111575",
+        "total": 646086
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "3225",
+        "active": 11590,
+        "critical": 58,
+        "new": "+195",
+        "recovered": 19869,
+        "total": 32895
+      },
+      "continent": "Europe",
+      "country": "Portugal",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "141",
+        "new": "+12",
+        "total": 1436
+      },
+      "population": 10198931,
+      "tests": {
+        "1M_pop": "83066",
+        "total": 847181
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "244",
+        "active": 1292,
+        "critical": 6,
+        "new": "+20",
+        "recovered": 6470,
+        "total": 7877
+      },
+      "continent": "Asia",
+      "country": "Malaysia",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "4",
+        "new": null,
+        "total": 115
+      },
+      "population": 32331595,
+      "tests": {
+        "1M_pop": "17343",
+        "total": 560738
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2537",
+        "active": 297479,
+        "critical": 8318,
+        "new": "+9640",
+        "recovered": 211080,
+        "total": 539045
+      },
+      "continent": "South-America",
+      "country": "Brazil",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "144",
+        "new": "+440",
+        "total": 30486
+      },
+      "population": 212438640,
+      "tests": {
+        "1M_pop": "4378",
+        "total": 930013
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "283",
+        "active": 493,
+        "critical": 4,
+        "new": "+17",
+        "recovered": 6626,
+        "total": 7221
+      },
+      "continent": "Oceania",
+      "country": "Australia",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "4",
+        "new": null,
+        "total": 102
+      },
+      "population": 25475529,
+      "tests": {
+        "1M_pop": "58672",
+        "total": 1494692
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "133",
+        "active": 1490,
+        "critical": 115,
+        "new": "+33",
+        "recovered": 14502,
+        "total": 16884
+      },
+      "continent": "Asia",
+      "country": "Japan",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "7",
+        "new": "+1",
+        "total": 892
+      },
+      "population": 126506424,
+      "tests": {
+        "1M_pop": "2313",
+        "total": 292569
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "872",
+        "active": 2330,
+        "critical": 17,
+        "new": "+32",
+        "recovered": 6681,
+        "total": 9334
+      },
+      "continent": "Europe",
+      "country": "Czechia",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "30",
+        "new": "+2",
+        "total": 323
+      },
+      "population": 10707447,
+      "tests": {
+        "1M_pop": "41836",
+        "total": 447957
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "1965",
+        "active": 31049,
+        "critical": 633,
+        "new": "+786",
+        "recovered": 129921,
+        "total": 165555
+      },
+      "continent": "Asia",
+      "country": "Turkey",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "54",
+        "new": "+22",
+        "total": 4585
+      },
+      "population": 84264770,
+      "tests": {
+        "1M_pop": "24958",
+        "total": 2103044
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "1879",
+        "active": 2055,
+        "critical": 31,
+        "new": "+116",
+        "recovered": 14940,
+        "total": 17285
+      },
+      "continent": "Asia",
+      "country": "Israel",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "32",
+        "new": "+5",
+        "total": 290
+      },
+      "population": 9197590,
+      "tests": {
+        "1M_pop": "63326",
+        "total": 582445
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "5081",
+        "active": 1319,
+        "critical": 36,
+        "new": "+4",
+        "recovered": 22089,
+        "total": 25066
+      },
+      "continent": "Europe",
+      "country": "Ireland",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "336",
+        "new": "+8",
+        "total": 1658
+      },
+      "population": 4933258,
+      "tests": {
+        "1M_pop": "70626",
+        "total": 348416
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": null,
+        "active": 82,
+        "critical": 10,
+        "new": null,
+        "recovered": 619,
+        "total": 712
+      },
+      "continent": null,
+      "country": "Diamond-Princess-",
+      "day": "2020-04-09",
+      "deaths": {
+        "1M_pop": null,
+        "new": null,
+        "total": 11
+      },
+      "population": null,
+      "tests": {
+        "1M_pop": null,
+        "total": null
+      },
+      "time": "2020-04-09T15:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "6431",
+        "active": 62,
+        "critical": 4,
+        "new": "+1",
+        "recovered": 3848,
+        "total": 4020
+      },
+      "continent": "Europe",
+      "country": "Luxembourg",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "176",
+        "new": null,
+        "total": 110
+      },
+      "population": 625114,
+      "tests": {
+        "1M_pop": "124819",
+        "total": 78026
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "346",
+        "active": 47667,
+        "critical": 111,
+        "new": "+3938",
+        "recovered": 27110,
+        "total": 76398
+      },
+      "continent": "Asia",
+      "country": "Pakistan",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "7",
+        "new": "+78",
+        "total": 1621
+      },
+      "population": 220521124,
+      "tests": {
+        "1M_pop": "2621",
+        "total": 577974
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "5689",
+        "active": 62552,
+        "critical": 1446,
+        "new": "+3527",
+        "recovered": 44946,
+        "total": 108686
+      },
+      "continent": "South-America",
+      "country": "Chile",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "62",
+        "new": "+75",
+        "total": 1188
+      },
+      "population": 19102957,
+      "tests": {
+        "1M_pop": "32077",
+        "total": 612772
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "645",
+        "active": 11577,
+        "critical": 160,
+        "new": "+230",
+        "recovered": 11726,
+        "total": 24395
+      },
+      "continent": "Europe",
+      "country": "Poland",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "29",
+        "new": "+18",
+        "total": 1092
+      },
+      "population": 37849748,
+      "tests": {
+        "1M_pop": "24992",
+        "total": 945955
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2294",
+        "active": 16957,
+        "critical": 252,
+        "new": "+420",
+        "recovered": 20019,
+        "total": 40414
+      },
+      "continent": "South-America",
+      "country": "Ecuador",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "195",
+        "new": "+44",
+        "total": 3438
+      },
+      "population": 17620485,
+      "tests": {
+        "1M_pop": "6740",
+        "total": 118754
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "282",
+        "active": 1384,
+        "critical": 11,
+        "new": "+19",
+        "recovered": 1374,
+        "total": 2937
+      },
+      "continent": "Europe",
+      "country": "Greece",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "17",
+        "new": null,
+        "total": 179
+      },
+      "population": 10426808,
+      "tests": {
+        "1M_pop": "17799",
+        "total": 185590
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "1243",
+        "active": 1067,
+        "critical": 9,
+        "new": "+2",
+        "recovered": 5500,
+        "total": 6887
+      },
+      "continent": "Europe",
+      "country": "Finland",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "58",
+        "new": "+2",
+        "total": 320
+      },
+      "population": 5540057,
+      "tests": {
+        "1M_pop": "34440",
+        "total": 190800
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "21461",
+        "active": 24180,
+        "critical": 239,
+        "new": "+1826",
+        "recovered": 36036,
+        "total": 60259
+      },
+      "continent": "Asia",
+      "country": "Qatar",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "15",
+        "new": "+3",
+        "total": 43
+      },
+      "population": 2807805,
+      "tests": {
+        "1M_pop": "82306",
+        "total": 231098
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "5295",
+        "active": 2,
+        "critical": 0,
+        "new": null,
+        "recovered": 1794,
+        "total": 1806
+      },
+      "continent": "Europe",
+      "country": "Iceland",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "29",
+        "new": null,
+        "total": 10
+      },
+      "population": 341061,
+      "tests": {
+        "1M_pop": "179258",
+        "total": 61138
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "101",
+        "active": 17951,
+        "critical": 0,
+        "new": "+609",
+        "recovered": 7935,
+        "total": 27549
+      },
+      "continent": "Asia",
+      "country": "Indonesia",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "6",
+        "new": "+22",
+        "total": 1663
+      },
+      "population": 273287113,
+      "tests": {
+        "1M_pop": "1253",
+        "total": 342464
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "6129",
+        "active": 12637,
+        "critical": 6,
+        "new": "+544",
+        "recovered": 23175,
+        "total": 35836
+      },
+      "continent": "Asia",
+      "country": "Singapore",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "4",
+        "new": null,
+        "total": 24
+      },
+      "population": 5846646,
+      "tests": {
+        "1M_pop": "57245",
+        "total": 334691
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "44",
+        "active": 59,
+        "critical": 1,
+        "new": "+1",
+        "recovered": 2966,
+        "total": 3083
+      },
+      "continent": "Asia",
+      "country": "Thailand",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "0.8",
+        "new": "+1",
+        "total": 58
+      },
+      "population": 69786399,
+      "tests": {
+        "1M_pop": "6026",
+        "total": 420529
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "2560",
+        "active": 22672,
+        "critical": 1264,
+        "new": "+1869",
+        "recovered": 65790,
+        "total": 89011
+      },
+      "continent": "Asia",
+      "country": "Saudi-Arabia",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "16",
+        "new": "+24",
+        "total": 549
+      },
+      "population": 34768083,
+      "tests": {
+        "1M_pop": "24562",
+        "total": 853987
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    },
+    {
+      "cases": {
+        "1M_pop": "710",
+        "active": 8,
+        "critical": 1,
+        "new": "+2",
+        "recovered": 1358,
+        "total": 1475
+      },
+      "continent": "Europe",
+      "country": "Slovenia",
+      "day": "2020-06-02",
+      "deaths": {
+        "1M_pop": "52",
+        "new": null,
+        "total": 109
+      },
+      "population": 2078916,
+      "tests": {
+        "1M_pop": "38994",
+        "total": 81066
+      },
+      "time": "2020-06-02T20:45:06+00:00"
+    }
+  ]
+}
